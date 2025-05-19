@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision<br>👯 I’m looking to collaborate on OCR projects<br>🤝 I’m looking for help with RKNN SoC's<br>🌱 I’m currently learning Deep Learning/Computer Vision<br>💬 Ask me about yolo models<br>⚡CE Student at Yazd University
+🔭 I’m currently working on Computer Vision<br>👯 I’m looking to collaborate on OCR projects<br>🤝 I’m looking for help with RKNN SoC's<br>🌱 I’m currently learning Deep Learning/Computer Vision<br>💬 Ask me about yolo models<br>⚡CE Student at Yazd University/Part time developer at Shahr-e-Hooshmand-e-Farabin(AKA Farabin)
 
 
 ## 🌐 Socials:
