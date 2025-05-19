@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision<br>👯 I’m looking to collaborate on OCR projects<br>🤝 I’m looking for help with RKNN SoC's<br>🌱 I’m currently learning Deep Learning/Computer Vision<br>💬 Ask me about yolo models<br>⚡CE Student at Yazd University/Part time developer at Shahr-e-Hooshmand-e-Farabin(AKA Farabin)
+🔭 Part time developer at Shahr-e-Hooshmand-e-Farabin(AKA Farabin)<br>🚏 I’m looking to collaborate on ANPR Projects<br>📌 I’m looking for help with RKNN SoC's<br>👣 I’m currently learning Computer Vision and product development<br>👀 Ask me about yolo models and ultralytics<br>📚 CE Student at Yazd University
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SisroCodeke&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SisroCodeke&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SisroCodeke&icon=0&color=0)](https://visitcount.itsvg.in)
