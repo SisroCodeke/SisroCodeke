@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Part time developer at Shahr-e-Hooshmand-e-Farabin(AKA Farabin)<br>🚏 I’m looking to collaborate on ANPR Projects<br>📌 I’m looking for help with RKNN SoC's<br>👣 I’m currently learning Computer Vision and product development<br>👀 Ask me about yolo models and ultralytics<br>📚 CE Student at Yazd University
+🔭 Part time developer at Shahr-e-Hooshmand-e-Farabin(AKA Farabin)<br>🚏 I’m looking to collaborate on ANPR Projects<br>📌 I’m looking for help with optimization computer vision programs on Edge devices <br>👣 I’m currently learning nlp and model optimization <br>👀 Ask me about yolo models and ultralytics<br>📚 CE Student at Yazd University
 
 
 ## 🌐 Socials:
